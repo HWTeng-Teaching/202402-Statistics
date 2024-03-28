@@ -1,3 +1,14 @@
+# 11.2.15.a.b
+
+## By 朱采翎 (110705069)
+
+### Question
+![image](https://github.com/HWTeng-Course/202402-Statistics/assets/162141633/f2366ba8-123a-4ab3-a1fb-a6fd7a92d6ec)
+
+### Solution
+
+
+
 # Detailed Solution for ANOVA Question
 
 ## Question:
