@@ -3,7 +3,7 @@
 ## By 朱采翎 (110705069)
 
 ### Question
-![image](https://github.com/HWTeng-Course/202402-Statistics/assets/ECE52030-3666-4B14-BF18-7C5F08E41914.jpg)
+![image](ECE52030-3666-4B14-BF18-7C5F08E41914.jpg)
 
 ### Solution
 
