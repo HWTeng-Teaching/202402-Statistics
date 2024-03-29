@@ -12,7 +12,7 @@ https://forms.gle/z9UZBpvYZkKmA48k7
 
 | Week | Date  | Aim           | Session 1 | Session 2 | Session 3 | HW   | Participation |
 |------|-------|---------------|-----------|-----------|-----------|------|---------------|
-| 1    | 2/19  | Syllabus and Review |         |           |           | gitHUB |               |
+| 1    | 2/19  | Syllabus and Review |         |           |           | GitHub |               |
 | 2    | 2/26  | Warm-up Quiz  | Quiz      | Quiz      | Quiz      |      | quiz          |
 | 3    | 3/4   | 10.1~10.4     |           |           |           | HW01 | IC01          |
 | 4    | 3/11  | 10.5~10       | HWP       |           |           | HW02 | IC02          |
