@@ -33,14 +33,14 @@ https://forms.gle/z9UZBpvYZkKmA48k7
 ## Homework assigned on 20240401
 
 
-Pleaes watch youtube vedios:
+Pleaes watch youtube vedios and work out the following homework assignments. 
 
-11.3: https://youtu.be/R1L6cUBTNX8
-11.4: https://youtu.be/qSdQea-5urw
-12.0: https://youtu.be/bStcM4D_I9k
-12.1: https://youtu.be/YcBncZxWmgk
-12.1.b: https://youtu.be/CCswGP_AN20
-12.2: https://youtu.be/SWNxCDqyKGE
+- 11.3: https://youtu.be/R1L6cUBTNX8
+- 11.4: https://youtu.be/qSdQea-5urw
+- 12.0: https://youtu.be/bStcM4D_I9k
+- 12.1: https://youtu.be/YcBncZxWmgk
+- 12.1.b: https://youtu.be/CCswGP_AN20
+- 12.2: https://youtu.be/SWNxCDqyKGE
 
 
 | 系別   | 姓名 | 題號      |
