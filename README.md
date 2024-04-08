@@ -56,9 +56,9 @@ Pleaes watch youtube vedios and work out the following homework assignments.
 | 管科系2 | 程馨慧 | 12.1.17      | absent|
 | 管科系2 | 鍾仁瑋 | 12.1.22.a.b. | ok |
 | 管科系2 | 許祐誠 | 12.1.22.c.d. | ok| 
-| 管科系2 | 黃奕瑄 | 12.2.4       |
-| 管科系2 | 王楷晴 | 12.2.12.a.b. |
-| 管科系2 | 黃楷甯 | 12.2.12.c.d.e |
+| 管科系2 | 黃奕瑄 | 12.2.4       | ok|
+| 管科系2 | 王楷晴 | 12.2.12.a.b. | absent| 
+| 管科系2 | 黃楷甯 | 12.2.12.c.d.e | 
 
 
 ## Homework assigned on 20240325
