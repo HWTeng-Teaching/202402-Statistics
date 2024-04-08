@@ -20,9 +20,9 @@ Pleaes watch youtube vedios and work out the following homework assignments.
 | 傳科系2 | 顏佑霓 | 11.3.14      | Help to explain why Tukey's CI equals the $\omega$ criterion. |
 | 資工系2A | 盧均祐 | 11.3.15.a    | ok|
 | 管科系2 | 陳律安 | 11.3.15.b    | ok|
-| 管科系2 | 蔡政曄 | 11.4.19.a.b. |
-| 管科系2 | 彭星裴 | 11.4.19.c.d. |
-| 管科系2 | 徐筱崴 | 11.4.25      |
+| 管科系2 | 蔡政曄 | 11.4.19.a.b. | absent|
+| 管科系2 | 彭星裴 | 11.4.19.c.d. |absent|
+| 管科系2 | 徐筱崴 | 11.4.25      |absent|
 | 管科系2 | 程馨慧 | 12.1.17      | ok|
 | 管科系2 | 鍾仁瑋 | 12.1.22.a.b. | ok |
 | 管科系2 | 許祐誠 | 12.1.22.c.d. | ok| 
