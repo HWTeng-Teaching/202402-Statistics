@@ -16,7 +16,7 @@ Pleaes watch youtube vedios and work out the following homework assignments.
 | 系別   | 姓名 | 題號      | Comment|
 |--------|------|-------------| ---|
 | 管科系2 | 李佩芸 | 11.2.11.a.b. | Fix QQ plot|
-| 管科系2 | 林辰   | 11.2.11.c.d  |  Fix errrors. CI is wrong|
+| 管科系2 | 林辰   | 11.2.11.c.d  |  Fix errrors. H0 and CI is wrong. df = error df. |
 | 傳科系2 | 顏佑霓 | 11.3.14      | Help to explain why Tukey's CI equals the $\omega$ criterion. |
 | 資工系2A | 盧均祐 | 11.3.15.a    |
 | 管科系2 | 陳律安 | 11.3.15.b    |
