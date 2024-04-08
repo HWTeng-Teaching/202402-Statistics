@@ -17,8 +17,8 @@ Pleaes watch youtube vedios and work out the following homework assignments.
 | 系別   | 姓名 | 題號      | Comment|
 |--------|------|-------------| ---|
 | 管科系2 | 李佩芸 | 11.2.11.a.b. | Fix QQ plot|
-| 管科系2 | 林辰   | 11.2.11.c.d  | 
-| 傳科系2 | 顏佑霓 | 11.3.14      |
+| 管科系2 | 林辰   | 11.2.11.c.d  |  Fix errrors. CI is wrong|
+| 傳科系2 | 顏佑霓 | 11.3.14      | |
 | 資工系2A | 盧均祐 | 11.3.15.a    |
 | 管科系2 | 陳律安 | 11.3.15.b    |
 | 管科系2 | 蔡政曄 | 11.4.19.a.b. |
