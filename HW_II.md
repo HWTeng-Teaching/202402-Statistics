@@ -1,3 +1,6 @@
+# HW_II
+
+## Homework assigned on 20240401
 
 
 Pleaes watch youtube vedios and work out the following homework assignments. 
@@ -26,5 +29,7 @@ Pleaes watch youtube vedios and work out the following homework assignments.
 | 管科系2 | 黃奕瑄 | 12.2.4       | ok|
 | 管科系2 | 王楷晴 | 12.2.12.a.b. | absent| 
 | 管科系2 | 黃楷甯 | 12.2.12.c.d.e | ok |
+
+
 
 
