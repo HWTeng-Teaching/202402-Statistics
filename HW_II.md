@@ -19,7 +19,6 @@ Pleaes watch youtube vedios and work out the following homework assignments.
 | 管科系2 | 林辰   | 11.2.11.c.d  |  Fix errrors. H0 and CI is wrong. df = error df. |
 | 傳科系2 | 顏佑霓 | 11.3.14      | Help to explain why Tukey's CI equals the $\omega$ criterion. |
 | 資工系2A | 盧均祐 | 11.3.15.a    | ok|
-
 | 管科系2 | 陳律安 | 11.3.15.b    |
 | 管科系2 | 蔡政曄 | 11.4.19.a.b. |
 | 管科系2 | 彭星裴 | 11.4.19.c.d. |
