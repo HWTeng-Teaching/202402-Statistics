@@ -43,8 +43,8 @@ Pleaes watch youtube vedios and work out the following homework assignments.
 - 12.2: https://youtu.be/SWNxCDqyKGE
 
 
-| 系別   | 姓名 | 題號      |
-|--------|------|-------------|
+| 系別   | 姓名 | 題號      | Comment|
+|--------|------|-------------| ---|
 | 管科系2 | 李佩芸 | 11.2.11.a.b. |
 | 管科系2 | 林辰   | 11.2.11.c.d  |
 | 傳科系2 | 顏佑霓 | 11.3.14      |
@@ -53,9 +53,9 @@ Pleaes watch youtube vedios and work out the following homework assignments.
 | 管科系2 | 蔡政曄 | 11.4.19.a.b. |
 | 管科系2 | 彭星裴 | 11.4.19.c.d. |
 | 管科系2 | 徐筱崴 | 11.4.25      |
-| 管科系2 | 程馨慧 | 12.1.17      |
-| 管科系2 | 鍾仁瑋 | 12.1.22.a.b. |
-| 管科系2 | 許祐誠 | 12.1.22.b.c. |
+| 管科系2 | 程馨慧 | 12.1.17      | absent|
+| 管科系2 | 鍾仁瑋 | 12.1.22.a.b. | ok |
+| 管科系2 | 許祐誠 | 12.1.22.c.d. | ok| 
 | 管科系2 | 黃奕瑄 | 12.2.4       |
 | 管科系2 | 王楷晴 | 12.2.12.a.b. |
 | 管科系2 | 黃楷甯 | 12.2.12.c.d.e |
