@@ -1,3 +1,23 @@
+<img width="260" alt="image" src="https://github.com/HWTeng-Course/202402-Statistics/assets/55239313/8390fc3b-26be-4261-82a3-fd420c70755a">
+## Homework assigned on 20240325
+
+
+
+## Homework assigned on 20240318
+
+
+To reformat the data provided into a table with headers as requested, here is how it would look:
+
+| 系別         | 姓名   | 題號        |
+|--------------|--------|-------------|
+| 工管系3      | 陳嘉駿 | 11.1.8      |
+| 工管系3      | 黃禹衡 | 11.1.9      |
+| 工管系3      | 謝弘廷 | 11.2.3      |
+| 工管系3      | 謝尚哲 | 11.2.4      |
+| 工管系3      | 高紫欣 | 11.2.8      |
+| 資財系資管組3 | 葉均芸 | 11.2.10.a   |
+| 資財系財金組3 | 朱采翎 | 11.2.15.a.b |
+|外文系2	|涂允柔	|11.2.15.c|
 
 
 ## Homework assigned on 20240311
