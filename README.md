@@ -5,6 +5,10 @@
 此課程為113學年度所開設的國立陽明交通大學管理學院統計學（二）部分作業解答，課堂上發表。
 
 
+https://www.youtube.com/watch?v=ife-z2T9QLM
+
+
+
 ## Weekly plan
 
 
