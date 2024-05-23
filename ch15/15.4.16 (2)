@@ -3,87 +3,11 @@
 ## By 陳逸萱(111705058)
 
 ## Question
-![image](https://github.com/HWTeng-Course/202402-Statistics/blob/main/Images/IMG_2445.jpg?raw=true)
+
 
 ## Solution
 
 ## (a)
 
-| meal         | A                   | B                   | Sign           |
-| ------------ | ------------------- | ------------------- | -------------- | 
-| 1            | 6                   | 8                   | -              |
-| 2            | 4                   | 5                   | -              |
-| 3            | 7                   | 4                   | +              |
-| 4            | 8                   | 7                   | +              |
-| 5            | 2                   | 3                   | -              |
-| 6            | 7                   | 4                   | +              |
-| 7            | 9                   | 9                   | 0              |
-| 8            | 7                   | 8                   | -              |
-| 9            | 2                   | 5                   | -              |
-| 10           | 4                   | 3                   | +              |
-| 11           | 6                   | 9                   | -              |
-| 12           | 8                   | 5                   | +              |
-| 13           | 4                   | 2                   | +              |
-| 14           | 3                   | 3                   | 0              |
-| 15           | 6                   | 8                   | -              |
-| 16           | 9                   | 10                  | -              |
-| 17           | 9                   | 8                   | +              |
-| 18           | 4                   | 6                   | -              |
-| 19           | 4                   | 3                   | +              |
-| 20           | 5                   | 4                   | +              |
-| 21           | 3                   | 2                   | +              |
-| 22           | 5                   | 3                   | +              |
 
-1 .
- H<sub>0</sub>: the rating distributions are the same (p = 0.5)
-
- &emsp;
- H<sub>1</sub>: the ratings are different (p $\neq$ 0.5)   with n = 20 (omit the tired pairs)
-
-2 . set $\alpha$ = 0.05
-
-3 . Test statistic = x = number of plus signs (+)
-
-4 . Realized statistic: x<sup>#</sup> = 11
-
-5 . Use Table 1 with n = 20 and p = 0.5
-
-Because this is a two-tailed test, we look for the critical values where the cumulative probability is $\alpha$/2 = 0.025
-
-![image](https://github.com/HWTeng-Course/202402-Statistics/blob/main/Images/IMG_2446.jpg?raw=true)
-
-By the table, we can get the critical values are 5 (lower) and 14 (upper)
-
-**
-The rejection region: {x &le; 5 or x &ge; 14}**
-
-6 . Because 11 &notin; the rejection region, H<sub>0</sub> does not be rejected. There is not sufficient evidence to indicate that one of the chefs tends to give higher ratings than the other.
-
-## (b)
-
-1 .
- H<sub>0</sub>: the rating distributions are the same (p = 0.5)
-
- &emsp;
- H<sub>1</sub>: the ratings are different (p $\neq$ 0.5)   with n = 20 (omit the tired pairs)
-
-2 . set $\alpha$ = 0.05
-
-3 . The test statistic
-
- &emsp;
-     $Z_{STAT}$ = $\frac{{x}-0.5{n}}{0.5\sqrt{n}}\sim Z$ 
-
-4 . The realized test statistic
-
- &emsp;
-     $Z^*=\frac{11-10}{0.5\sqrt{20}}=0.447213595\approx0.4472$
-
-5 . For a two-tailed test,the rejection region is{z : |z| > 1.96}(5% level).
-
-6 . Because 0.4472 &notin; the rejection region, H<sub>0</sub> does not be rejected. There is not sufficient evidence to indicate that one of the chefs tends to give higher ratings than the other.
-
-## (c)
-
-The results of the two parts are that H<sub>0</sub> does not be rejected, and the results of the two tests are the same.
 
